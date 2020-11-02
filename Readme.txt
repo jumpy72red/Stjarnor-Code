@@ -1,4 +1,4 @@
-<!-- Members of Stjarnor
+<!-- Members of Stjärnor
 
 Please create a new branch named the language you are using if there is not one already (e.g. Python)
 Once in there, name your file with your preferred name/nickname, the project name, then the version. (e.g. HarryRpiConnectivity-1.0.py)
