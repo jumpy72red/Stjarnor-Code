@@ -24,6 +24,10 @@
 
 - RuboGubo (Discord: Rubo Gubo#9752)
 
+#### **Project Manager**
+
+- Sandpug101 (Discord: Sandpug101#1902)
+
 If you need help with anything to do with Github message me on Discord (Gee#8751)
 
 ### Creative Commons License (1.0) information
