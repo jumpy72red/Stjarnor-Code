@@ -1,16 +1,16 @@
-# Stjarnor Code
+# Stjärnor Code
 
 ## Rules
 
-- Creat a branch for each language used if it does not allready exist
-- When creating a file use this system:
-  - Name of file
-  - Project name
-  - Version
-  - add -README to the end
+- Create a branch for each language used if it does not already exist
+- When creating a file use this system:.
+  - Name of file.
+  - Project name.
+  - Version.
+  - Readme file required with code file, add -README to the end.
   - e.g. HarryRpiConnectivity-1.0-README
-- If you are directaly uploding code to the main branch, use draft pull so that other can reavie befor it tis uploded
-- All files will be moved to the branch specific to your projects language (will still be available on the main branch)
+- If you are directly uploading code to the main branch, use draft pull so that other can review befor it is uploaded
+- All files will be moved to the branch specific to your projects language, but will all be available on the main branch
 
 ## Info
 
@@ -18,7 +18,7 @@
 
 #### **Head Coder** 
 
-- Jumpy72red (Discord: Gee#8751)
+- jumpy72red, Harry Carr (Discord: Gee#8751)
 
 #### **Coders**
 
@@ -26,6 +26,10 @@
 
 If you need help with anything to do with Github message me on Discord (Gee#8751)
 
-### Creative comons means
+### Creative Commons License (1.0) information
 
-Anyone can use your code elsewhere, as long as they credit you. The person is also allowed to earn money from the code, as long as correct credit is given in an obvious place
+The Creative Commons License (1.0) outlines that any code you add to this repository can be used by other people for no fee, and they can make a profit from our code,
+as long as a few terms are met. These are:
+ -You have to credit the authors of the code, so whoever it is made by, and provide the name of this repository
+ -You cannot change the license once you have taken a section of code, and multiple licenses cannot be used
+ -More information in license file in main.
