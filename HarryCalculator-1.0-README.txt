@@ -1,1 +1,0 @@
-Just a simple calculator to provide an example with branches and pull requests
