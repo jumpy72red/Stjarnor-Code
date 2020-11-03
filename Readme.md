@@ -9,7 +9,7 @@
   - Version.
   - Readme file required with code file, add -README to the end.
   - e.g. HarryRpiConnectivity-1.0-README
-- If you are directly uploading code to the main branch, use draft pull so that other can review befor it is uploaded
+- If you are directly uploading code to the main branch, use draft pull so that others can review before it is uploaded
 - All files will be moved to the branch specific to your projects language, but will all be available on the main branch
 
 ## Info
