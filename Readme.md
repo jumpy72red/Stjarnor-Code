@@ -34,6 +34,6 @@ If you need help with anything to do with Github message me on Discord (Gee#8751
 
 The Creative Commons License (1.0) outlines that any code you add to this repository can be used by other people for no fee, and they can make a profit from our code,
 as long as a few terms are met. These are:
- -You have to credit the authors of the code, so whoever it is made by, and provide the name of this repository
- -You cannot change the license once you have taken a section of code, and multiple licenses cannot be used
- -More information in license file in main.
+- You have to credit the authors of the code, so whoever it is made by, and provide the name of this repository
+- You cannot change the license once you have taken a section of code, and multiple licenses cannot be used
+- More information in license file in main.
