@@ -4,7 +4,7 @@
 
 - Create a branch for each language used if it does not already exist
 - When creating a file use this system:.
-  - Name of file.
+  - Your preferred name.
   - Project name.
   - Version.
   - Readme file required with code file, add -README to the end.
