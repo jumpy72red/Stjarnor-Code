@@ -30,7 +30,7 @@
 
 If you need help with anything to do with Github message me on Discord (Gee#8751)
 
-### Creative Commons License (1.0) information
+## Creative Commons License (1.0) information
 
 The Creative Commons License (1.0) outlines that any code you add to this repository can be used by other people for no fee, and they can make a profit from our code,
 as long as a few terms are met. These are:
@@ -38,6 +38,6 @@ as long as a few terms are met. These are:
 - You cannot change the license once you have taken a section of code, and multiple licenses cannot be used
 - More information in license file in main.
 
-### CodeQL Info
+## CodeQL Info
 **CodeQL will present failed tests until code for C#, Java & Python are added. Until then, it will show errors. I will probably add some simple
 documents for each of these, to prevent the errors.**
