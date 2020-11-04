@@ -1,6 +1,7 @@
 # Security Policy
 
 ## Supported Versions
+ - No versions yet
 
 | Version | Supported          |
 | ------- | ------------------ |
