@@ -38,6 +38,6 @@ as long as a few terms are met. These are:
 - You cannot change the license once you have taken a section of code, and multiple licenses cannot be used
 - More information in license file in main.
 
-## CodeQL Info
+### CodeQL Info
 **CodeQL will present failed tests until code for C#, Java & Python are added. Until then, it will show errors. I will probably add some simple
 documents for each of these, to prevent the errors.**
